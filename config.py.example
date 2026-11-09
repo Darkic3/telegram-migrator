@@ -1,0 +1,6 @@
+API_ID = youqr_API_id_here  # عدد رو بدون نقل‌قول بذار
+API_HASH = 'Your_API_hash_here'  # رشته رو داخل نقل‌قول بذار
+
+TARGET_CHANNEL = '@your_channel_username'  # نام کاربری کانال مقصد (با @ شروع بشه)
+
+SESSION_NAME = 'migrator_session'  # نام فایل session که telethon می‌سازه
